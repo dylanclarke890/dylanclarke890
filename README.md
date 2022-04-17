@@ -8,3 +8,6 @@
 
 <!-- GitHub profile statistics (stars, commits, etc) --> <!-- Most used languages in my repositories -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanclarke890&theme=tokyonight) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanclarke890&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+<!-- Github Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=dylanclarke890&theme=darkhub)](https://github.com/dylanclarke890/github-profile-trophy)
