@@ -15,4 +15,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanclarke890&show_icons=true&theme=tokyonight)
 
 <!-- Most used languages in my repositories -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanclarke890&theme=tokyonight)
