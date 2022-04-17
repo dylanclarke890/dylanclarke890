@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on smart contracts.
 - 🌱 I’m currently learning Solidity and blockchains.
-- 👯 I’m looking to collaborate on any project.
-- 💬 Ask me about anything
 
 <!-- GitHub profile visitor count -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=dylanclarke890.dylanclarke890)
