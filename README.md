@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**dylanclarke890/dylanclarke890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on smart contracts.
+- 🌱 I’m currently learning Solidity and blockchains.
+- 👯 I’m looking to collaborate on any project.
+- 💬 Ask me about anything
 
-Here are some ideas to get you started:
+<!-- GitHub profile visitor count -->
+![](https://visitor-badge.laobi.icu/badge?page_id=dylanclarke890.dylanclarke890)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub profile followers count -->
+[![Github](https://img.shields.io/github/followers/dylanclarke890?label=Follow&style=social)](https://github.com/dylanclarke890)
+
+<!-- GitHub profile statistics (stars, commits, etc) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanclarke890&show_icons=true&theme=tokyonight)
+
+<!-- Most used languages in my repositories -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
