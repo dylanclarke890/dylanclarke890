@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on smart contracts.
+- 🔭 I’m currently getting stuck in with learning about smart contracts and image generation.
 - 🌱 I’m currently learning Solidity and blockchains.
 
 <!-- GitHub profile visitor count --> <!-- GitHub profile followers count -->
