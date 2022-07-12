@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently getting stuck in with learning about smart contracts and image generation.
-- 🌱 I’m currently learning Solidity and blockchains.
-
 <!-- GitHub profile visitor count --> <!-- GitHub profile followers count -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=dylanclarke890.dylanclarke890) [![Github](https://img.shields.io/github/followers/dylanclarke890?label=Follow&style=social)](https://github.com/dylanclarke890)
 
