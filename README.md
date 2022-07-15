@@ -5,4 +5,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dylanclarke890&theme=darkhub)](https://github.com/dylanclarke890/github-profile-trophy)
 
 <!-- GitHub profile visitor count --> <!-- GitHub profile followers count -->
+<!--
 ![](https://visitor-badge.laobi.icu/badge?page_id=dylanclarke890.dylanclarke890) [![Github](https://img.shields.io/github/followers/dylanclarke890?label=Follow&style=social)](https://github.com/dylanclarke890)
+-->
