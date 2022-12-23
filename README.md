@@ -1,5 +1,3 @@
-Currently getting stuck in with creating games!
-
 <!-- GitHub profile statistics (stars, commits, etc) --> <!-- Most used languages in my repositories -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanclarke890&theme=tokyonight) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanclarke890&show_icons=true&theme=tokyonight&include_all_commits=true)
 
