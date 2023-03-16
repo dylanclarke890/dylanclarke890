@@ -1,6 +1,6 @@
-<!-- Most used languages in my repositories -->
+<!-- Most used languages in my repositories
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanclarke890&theme=radical&title_color=8E2DE2&text_color=fff) 
-<br>
+<br> -->
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
@@ -20,9 +20,9 @@
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 ![jira](https://img.shields.io/badge/-jira-grey?style=for-the-badge&logo=jira&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-<br>
-<!-- GitHub profile statistics (stars, commits, etc) --> 
+<!-- GitHub profile statistics (stars, commits, etc)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanclarke890&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&include_all_commits=true)
 <br>
-<!-- Github Trophies -->
+Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=dylanclarke890&theme=radical&title_color=8E2DE2&text_color=fff&&row=1)](https://github.com/dylanclarke890/github-profile-trophy)
+ -->
